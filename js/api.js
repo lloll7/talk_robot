@@ -3,7 +3,7 @@
 */
 var API = (function () {
   // 定义公共的常量
-  const BASE_URL = "http://study.duyiedu.com";
+  const BASE_URL = "https://study.duyiedu.com";
   const TOKEN_KEY = "token";
   // get请求封装
   function get(path) {
